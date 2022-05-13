@@ -1,5 +1,5 @@
-summa=0
+summa = 0
 
 for i in range(101):
-    summa=summa+i
+    summa = summa + i
 print('сумма=', summa)

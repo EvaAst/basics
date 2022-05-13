@@ -1,4 +1,4 @@
-numbers =input('Введите число')
+numbers = input('Введите число')
 text = str(numbers)
 counter = 0
 for i in range(len(text)):
@@ -8,5 +8,5 @@ for i in range(len(text)):
 
 if counter > 0:
     print('Цифра 5 есть в числе')
-else: print ('Цифры 5 нет в числе')
-
+else:
+    print('Цифры 5 нет в числе')

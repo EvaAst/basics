@@ -1,5 +1,5 @@
-numbers=0
-counter=0
+numbers = 0
+counter = 0
 
 for i in range(10):
     numbers = input('введите 10 цифр от 0 до 9 ')
